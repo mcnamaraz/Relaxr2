@@ -1,0 +1,192 @@
+html {
+    font-size: 10px
+  }
+
+  body {
+      color: white;
+      font-size: 1.2rem;
+      line-height: 1.4;
+      font-family: "Open+Sans" sans-serif;
+  
+  }
+
+
+p {
+  padding-top: 5%;
+  padding-left: 25%;
+  padding-right:25%;
+
+      }
+
+
+header {  
+
+  background: url(header_bg.png) no-repeat center top rgb(134,141,157);
+      background-size: cover;
+        background-color: white;
+          height: 500px;
+
+      }
+
+footer {
+  
+  color: white;
+  font-style: normal;
+  font-size: 12px;
+  height: 80px;
+  padding-top: 5%;
+  padding-left: 25%;
+  padding-right:25%;
+  background-color: black;
+
+}
+
+
+.title {
+
+    font-weight: 800; font-size: 30px;
+      padding-left: 10%;
+        padding-top:3%;
+      
+      }
+
+.subhead { 
+
+    font-weight: 300;
+      font-size: 40px;
+       margin-top: 75px;
+        margin-bottom: 50px;
+          margin-right: 25px;
+           margin-left: 50px;
+            text-align: center;
+     }
+
+.getitnowdiv {
+text-align: center;
+
+
+}
+
+.getitnow {
+
+    font-weight: 800; font-size: 20px;
+    margin-left: 600px;
+          margin-top: 20px;
+            text-align: center;
+                  background-color: #f9e42e;
+                     border: 5px;
+                      color: black;
+                        padding: 15px;
+                            border-radius: 5px;
+                               width: 15%;
+                                
+      }
+
+.benefits {
+    font-weight: normal; font-size: 30px;
+        margin-top: 0%;
+          padding-left: 5%;
+          padding-top: 3%;
+            color:#033048;
+      }
+
+
+.benefitsdiv {
+    background-color: lightgray;
+    padding-left: 5%;
+      padding-bottom: 5%;
+
+}
+
+
+.list {
+
+        font-weight: 300; 
+        font-size: 24px;
+          margin-left:50px;
+            color: #033048;
+     }
+
+
+.testotext {
+    background: url(testimonial_bg.jpg) no-repeat center top rgb(134,141,157);
+     font-weight: 300; 
+      font-style: italic;
+      font-size: 30px;
+       color: white;
+        height: 350px;
+          width: 100%;
+            background-size: cover;
+              text-align: center;
+                margin-top: 0px;
+
+              }
+
+.testomonialtext  {
+  margin-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+
+
+  }
+
+.amanda {
+  font-weight: 700;
+    font-style: normal; 
+      font-size: 20px;
+        color: white;
+        padding-top: 5px;
+          margin-top: 10px;
+
+    }
+              
+.buttondiv {
+  background-color: #f9e42e;
+    background-size: cover;
+      height: 40%;
+      padding-top: 25px;
+
+
+    }
+
+.button {
+
+    background-color: #033048;
+      padding-top: 20px;
+        padding-left: 60px;
+          padding-right:60px;
+            padding-bottom: 15px;
+              text-align: center;
+                display: inline-block;
+                font-size: 20px;
+                  border: #033048;
+                      border-radius: 5px;
+
+     }
+
+.relaxrlogo {
+height: 250px;
+background-color: black;
+
+    }
+
+
+.relaxr2  {
+color:#f9e42e;
+font-size: 50px;
+font-weight: bold;
+font-style: normal;
+margin-top: 0px;
+margin-bottom: 30px;
+
+    }
+
+.socialimages {
+  padding-right: 20%
+  padding-left: 5%;
+}
+
+
+
+
+
