@@ -1,13 +1,9 @@
 html {
-    font-size: 10px
+
   }
 
   body {
-      color: white;
-      font-size: 1.2rem;
-      line-height: 1.4;
-      font-family: "Open+Sans" sans-serif;
-  
+      color: white;  
   }
 
 
@@ -15,6 +11,7 @@ p {
   padding-top: 5%;
   padding-left: 25%;
   padding-right:25%;
+  text-align: center;
 
       }
 
@@ -70,14 +67,13 @@ text-align: center;
 .getitnow {
 
     font-weight: 800; font-size: 20px;
-    margin-left: 600px;
+      margin-left: 400px;
           margin-top: 20px;
-            text-align: center;
-                  background-color: #f9e42e;
+            background-color: #f9e42e;
                      border: 5px;
                       color: black;
                         padding: 15px;
-                            border-radius: 5px;
+                            border-radius: 8px;
                                width: 15%;
                                 
       }
@@ -111,6 +107,7 @@ text-align: center;
 .testotext {
     background: url(testimonial_bg.jpg) no-repeat center top rgb(134,141,157);
      font-weight: 300; 
+     line-height: 150%;
       font-style: italic;
       font-size: 30px;
        color: white;
@@ -126,14 +123,13 @@ text-align: center;
   margin-top: 0px;
   padding-bottom: 0px;
   margin-bottom: 0px;
-
+  font-weight: 300;
+    font-style: italic; 
+      font-size: 30px;
 
   }
 
 .amanda {
-  font-weight: 700;
-    font-style: normal; 
-      font-size: 20px;
         color: white;
         padding-top: 5px;
           margin-top: 10px;
@@ -159,6 +155,7 @@ text-align: center;
               text-align: center;
                 display: inline-block;
                 font-size: 20px;
+                font-style: normal;
                   border: #033048;
                       border-radius: 5px;
 
