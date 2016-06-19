@@ -171,8 +171,16 @@ background-color: black;
 .socialimages {
   padding:1%;
       display: inline-block;
+      text-align: center;
     }
 
+.copywrite {
+font-size: 9px;
+font-style: normal;
+text-transform: uppercase;
+letter-spacing: 2px;
+
+}
 
 
 
