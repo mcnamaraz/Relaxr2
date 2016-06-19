@@ -3,7 +3,7 @@ html {
   }
 
   body {
-      color: white;  
+    color: white;  
   }
 
 
@@ -17,7 +17,6 @@ p {
 
 
 header {  
-
   background: url(header_bg.png) no-repeat center top rgb(134,141,157);
       background-size: cover;
         background-color: white;
@@ -26,7 +25,6 @@ header {
       }
 
 footer {
-  
   color: white;
   font-style: normal;
   font-size: 12px;
@@ -40,16 +38,14 @@ footer {
 
 
 .title {
-
-    font-weight: 800; font-size: 30px;
+  font-weight: 800; font-size: 30px;
       padding-left: 10%;
         padding-top:3%;
       
       }
 
 .subhead { 
-
-    font-weight: 300;
+  font-weight: 300;
       font-size: 40px;
        margin-top: 75px;
         margin-bottom: 50px;
@@ -59,14 +55,13 @@ footer {
      }
 
 .getitnowdiv {
-text-align: center;
+  text-align: center;
 
 
 }
 
 .getitnow {
-
-    font-weight: 800; font-size: 20px;
+  font-weight: 800; font-size: 20px;
       margin-left: 400px;
           margin-top: 20px;
             background-color: #f9e42e;
@@ -75,7 +70,6 @@ text-align: center;
                         padding: 15px;
                             border-radius: 8px;
                                width: 15%;
-                                
       }
 
 .benefits {
@@ -96,8 +90,7 @@ text-align: center;
 
 
 .list {
-
-        font-weight: 300; 
+      font-weight: 300; 
         font-size: 24px;
           margin-left:50px;
             color: #033048;
@@ -117,41 +110,38 @@ text-align: center;
               text-align: center;
                 margin-top: 0px;
 
-              }
+      }
 
 .testomonialtext  {
   margin-top: 0px;
-  padding-bottom: 0px;
-  margin-bottom: 0px;
-  font-weight: 300;
+   padding-bottom: 0px;
+   margin-bottom: 0px;
+   font-weight: 300;
     font-style: italic; 
       font-size: 30px;
 
   }
 
 .amanda {
-        color: white;
-        padding-top: 5px;
-          margin-top: 10px;
+  color: white;
+     padding-top: 5px;
+       margin-top: 10px;
 
     }
               
 .buttondiv {
   background-color: #f9e42e;
     background-size: cover;
-      height: 40%;
-      padding-top: 25px;
-
-
+      height: 30%;
+      
     }
 
 .button {
-
     background-color: #033048;
-      padding-top: 20px;
+      padding-top: 5px;
         padding-left: 60px;
           padding-right:60px;
-            padding-bottom: 15px;
+            padding-bottom: 5px;
               text-align: center;
                 display: inline-block;
                 font-size: 20px;
@@ -169,19 +159,19 @@ background-color: black;
 
 
 .relaxr2  {
-color:#f9e42e;
-font-size: 50px;
-font-weight: bold;
-font-style: normal;
-margin-top: 0px;
-margin-bottom: 30px;
+  color:#f9e42e;
+    font-size: 50px;
+      font-weight: bold;
+        font-style: normal;
+         margin-top: 0px;
+            margin-bottom: 30px;
 
     }
 
 .socialimages {
-  padding-right: 20%
-  padding-left: 5%;
-}
+  padding:1%;
+      display: inline-block;
+    }
 
 
 
