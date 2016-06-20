@@ -3,7 +3,8 @@ html {
   }
 
   body {
-    color: white;  
+    color: white
+
   }
 
 
@@ -125,8 +126,10 @@ footer {
 
 .amanda {
   color: white;
-     padding-top: 5px;
-       margin-top: 10px;
+     margin-top: 0px;
+     margin-bottom: 15px;
+     padding-top: 0px;
+     text-align: center;
 
     }
               
