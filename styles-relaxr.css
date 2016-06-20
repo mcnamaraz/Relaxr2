@@ -100,7 +100,8 @@ footer {
 
 
 .testotext {
-    background: url(testimonial_bg.jpg) no-repeat center top rgb(134,141,157);
+    background: url(testimonial_bg.jpg);
+    background-repeat: repeat-y; background-color: rgb(134,141,157);
      font-weight: 300; 
      line-height: 150%;
       font-style: italic;
@@ -125,11 +126,14 @@ footer {
   }
 
 .amanda {
-  color: white;
+    color: white;
      margin-top: 0px;
-     margin-bottom: 15px;
-     padding-top: 0px;
-     text-align: center;
+      margin-bottom: 0px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+          text-align: center;
+          font-style: normal;
+          font-size: 20px;
 
     }
               
