@@ -4,9 +4,11 @@ html {
 
 body {
 
-  color: white;
+  color: #fff;
+  font-size: 1.2em;
+  line-height: 1.4;
   font-family: 'Open Sans', sans-serif;
-
+  
 }
 
 
@@ -20,9 +22,9 @@ p {
 
 header {  
   background: url(header_bg.png) no-repeat center top rgb(134,141,157);
-  background-size: cover;
+  background-size: contain;
   background-color: white;
-  height: 500px;
+  height: 700px;
 
 }
 
@@ -43,7 +45,7 @@ footer {
   font-weight: 800; font-size: 30px;
   padding-left: 10%;
   padding-top:3%;
-  
+
 }
 
 .subhead { 
@@ -144,7 +146,7 @@ footer {
   text-align: center;
   padding-top: 5px;
   padding-bottom: 5px;
-  
+
 }
 
 .button {
